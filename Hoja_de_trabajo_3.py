@@ -50,7 +50,7 @@ else:
         grupo = "B"
 
 if (genero == "F"):
-    print(Fore.CYAN+"Bienvenida",nombre.upper(),"su grupo es", grupo)
+    print(Fore.CYAN+"Bienvenida",nombre.upper(),"su grupo es", grupo,".")
     print(Fore.RESET)
 else:
     print(Fore.CYAN+"Bienvenido",nombre.upper(),"su grupo es", grupo,".")
