@@ -2,5 +2,3 @@
 print()
 Peso = float(input("Ingrese su peso en kilogramos: "))
 Altura = float(input("Ingrese su altura en metros: "))
-Indice = ((Peso)/(Altura **2))
-print("Su índice de masa corporal es:", round(Indice,2))
